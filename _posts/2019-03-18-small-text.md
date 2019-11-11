@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Self introducing
 ---
 1. Name: Jeon yerim<br>    
